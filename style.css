@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=BioRhyme:wght@200;400;800&display=swap');
+
+* {
+    background-color: #ead3cb;
+    color: #2b4f60;
+    margin: 0 auto;
+    text-align: center;
+    box-sizing: border-box;
+    font-family: 'BioRhyme', serif;
+   }
+   header {
+       width: 80%;
+       text-align: center;
+       padding-bottom: 30px;
+       padding-top: 30px;
+   }
+   header h1 {
+       background-color: #845460;
+       margin-top: 0px;
+       margin-bottom: 0px;
+       font-size: 18px;
+       font-weight: 800;
+   }
+   header h4 {
+    background-color: #845460;
+       text-align: center;
+       font-size: 18px
+       font-weight: 400;
+   }
+
+   header h5 {
+    background-color: #845460;
+    font-size: 18px;
+    font-weight: 400;
+   }
+   p {
+       text-align: left;
+   }
+   .profile {
+       text-align: center;
+       padding: 30px;
+   }
+   .education {
+       padding: 30px;
+   }
+   .experience {
+       background-color: #845460;
+       padding: 30px;
+   }
+   footer {
+       background-color: #845460;
+       padding: 30px;
+   }
